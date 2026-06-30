@@ -151,11 +151,3 @@ except HTTPError as e:
 ## Examples
 
 See the [examples/fastapi-app/](examples/fastapi-app/) directory for a complete FastAPI integration example.
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
-
-## License
-
-MIT © Loga Engineering
